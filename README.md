@@ -28,8 +28,10 @@ Use the script trainCascade.sh to begin training the cascade.
 
 To execute the script enter the terminal an do the following:
 
+```bash
 $ chmod u+x trainCascade.sh
 $ ./trainCascade.sh
+```
 
 Then wait for the process to end
 
